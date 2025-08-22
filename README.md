@@ -1,6 +1,6 @@
 ## Hellow, World 👋
 
-I'm learning about applying artificial intelligence to disease diagnosis. I'm intersesting at Multimodal model, generate model and XAI.
+I'm learning about applying artificial intelligence to disease diagnosis. I am particularly interested in multimodal models, where information from multiple medical devices can be combined to better assess a patient's condition. I am also fascinated by generative models, especially their potential for augmenting limited datasets to improve model training. In addition, I am drawn to explainable AI (XAI), as I believe that interpreting and explaining AI decision-making is essential for building trust in medical applications.
 
 <!--
 **Lagun0915/Lagun0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
