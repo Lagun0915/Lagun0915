@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hellow, World 👋
+
+I'm learning about applying artificial intelligence to disease diagnosis. I'm intersesting at Multimodal model, generate model and XAI.
 
 <!--
 **Lagun0915/Lagun0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
