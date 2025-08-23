@@ -2,8 +2,9 @@
 My research interest lies in leveraging big data and artificial intelligence to develop methods that enhance patient outcomes and support facing critical illness. I am particularly focused on advancing AI-driven approaches that integrate data analysis, machine learning, and medical knowledge to contribute to the future of healthcare.
 
 
-**📧 Contact**
-- E-mail : ghaguniv@gmail.com ( 09:00 ~ 21:00 )
+<p><b>📧 Contact</b><br>
+- E-mail : ghaguniv@gmail.com (09:00 ~ 21:00)
+</p>
 
 **🔗  Online Activity**
 - Blog : https://velog.io/@ghaguniv_0915/posts
